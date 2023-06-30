@@ -1,6 +1,6 @@
 ### Hi there 👋 fellow inhabitant of the floating rock we call Earth, my name is Jefferson! 
 
-##### I am a developer experience engineer passionate about emergent web technologies, privacy and secruity, scalability, and performant tooling for reaching the farthest reaches of the internet 
+#### I am a developer experience engineer passionate about emergent web technologies, privacy and secruity, scalability, and performant tooling for reaching the farthest reaches of the internet 
 
 
 - 🔭 I’m currently working on building a high-performance, distributed data processing system using Node.js and frameworks like Apache Kafka or RabbitMQ for event-driven communication. I'm focusing on optimizing the system's performance and scalability by implementing techniques such as data partitioning, parallel processing, and distributed caching.
