@@ -13,7 +13,7 @@
 
 - 💬 Ask me about topics related to high-performance, distributed data processing systems, security practices for Node.js applications, and DevOps and cloud deployment strategies in the context of Node.js development.
 
-- 📫 How to reach me: You can reach me through email at heyjeffersonighalo[at]gmail[dot]com or connect with me on  [[LinkedIn profile](https://www.linkedin.com/in/jefferson-ighalo-581aa379/)].
+- 📫 How to reach me: You can reach me through email at heyjeffersonighalo[at]gmail[dot]com or connect with me on [LinkedIn](https://www.linkedin.com/in/jefferson-ighalo-581aa379/).
 
 - 😄 Pronouns: he/him
 
