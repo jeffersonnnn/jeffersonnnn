@@ -1,21 +1,41 @@
-### Hi there 👋 fellow inhabitant of the floating rock we call Earth, my name is Jefferson! 
+# Jefferson Ighalo
 
-#### I am a developer experience engineer passionate about emergent web technologies, privacy and secruity, scalability, and performant tooling for reaching the farthest reaches of the internet 
+👨‍💻 Full Stack Engineer | Web3 Developer | DevRel Enthusiast
 
+## 🚀 Technical Skills
 
-- 🔭 I’m currently working on building a high-performance, distributed data processing system using Node.js and frameworks like Apache Kafka or RabbitMQ for event-driven communication. I'm focusing on optimizing the system's performance and scalability by implementing techniques such as data partitioning, parallel processing, and distributed caching.
+- **Languages:** Solidity, JavaScript, TypeScript
+- **Frameworks:** Hardhat, React, Next.js, Node.js
+- **Web3:** Ethereum, Polygon, Account Abstraction
+- **Other:** RESTful APIs, Smart Contracts, DeFi
 
-- 🌱 I’m currently learning how to create a secure microservices architecture with advanced security mechanisms. I'm using Node.js and containerization tools like Docker and orchestration platforms like Kubernetes. I'm implementing security measures such as Mutual TLS for service-to-service communication, OAuth 2.0 with JWT for authentication and authorization, and API Gateway for centralized security enforcement.
+## 💻 Featured Projects
 
-- 👯 I’m looking to collaborate on projects related to performance optimization, scalability, security, and cloud deployment in Node.js. I'm interested in working with individuals or teams who share similar interests and have expertise in these areas.
+### [PolyForge](https://github.com/jeffersonnnn/PolyForge)
+Web3 development toolkit for Polygon blockchain
+- Streamlines dApp development with pre-configured Hardhat environment
+- Includes smart contract templates and deployment scripts
 
-- 🤔 I’m looking for help with gaining expertise in DevOps practices and cloud deployment for Node.js applications. I would appreciate assistance with implementing highly available and automated cloud infrastructures, utilizing tools like Terraform or AWS CloudFormation, and setting up CI/CD pipelines for efficient application deployment.
+### [Simple DEX Tutorial](https://github.com/jeffersonnnn/simple-dex-tutorial)
+Educational project demonstrating how to build a decentralized exchange
+- Implements token swaps using Uniswap-style AMM
+- Showcases integration with Web3 wallets and Ethereum testnets
 
-- 💬 Ask me about topics related to high-performance, distributed data processing systems, security practices for Node.js applications, and DevOps and cloud deployment strategies in the context of Node.js development.
+### [Account Abstraction with Biconomy](https://github.com/jeffersonnnn/AccountAbstractionWBiconomy)
+Implementation of ERC-4337 Account Abstraction using Biconomy
+- Demonstrates gasless transactions and advanced wallet features
+- Explores the future of user-friendly blockchain interactions
 
-- 📫 How to reach me: You can reach me through email at heyjeffersonighalo[at]gmail[dot]com or connect with me on [LinkedIn](https://www.linkedin.com/in/jefferson-ighalo-581aa379/).
+## 🌱 Current Focus
 
-- 😄 Pronouns: he/him
+- Advancing Web3 infrastructure and developer tools
+- Exploring innovative DeFi and account abstraction solutions
+- Creating educational content for blockchain developers
 
-- ⚡ Fun fact: I presently work as a Developer Advocate so its no surprise that i enjoy participating in hackathons and exploring new technologies to expand my knowledge and skills in software development.
+## 📫 Connect
 
+[LinkedIn](https://www.linkedin.com/in/jefferson-ighalo-581aa379/) | heyjeffersonighalo@gmail.com
+
+---
+
+Always excited to collaborate on cutting-edge Web3 projects and discuss blockchain innovation!
