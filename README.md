@@ -32,9 +32,6 @@ Implementation of ERC-4337 Account Abstraction using Biconomy
 - Exploring innovative DeFi and account abstraction solutions
 - Creating educational content for blockchain developers
 
-## 📫 Connect
-
-[LinkedIn](https://www.linkedin.com/in/jefferson-ighalo-581aa379/) | heyjeffersonighalo@gmail.com
 
 ---
 
